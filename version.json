@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
+  "versionCode": 3,
+  "versionName": "1.0.2",
   "url": "https://github.com/Cbolla/ecowave-update/raw/main/app-debug.apk",
-  "releaseNotes": "• Novo botão de checar atualizações na barra lateral.\n• Buffer padrão definido em 4 para maior estabilidade.\n• O app agora lembra sua configuração de buffer preferida."
+  "releaseNotes": "• Versão 1.0.2\n• Botão Panic em vermelho claro.\n• Melhorias de estabilidade."
 }
