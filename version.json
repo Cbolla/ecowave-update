@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.0.4",
+  "versionCode": 5,
+  "versionName": "1.0.5",
   "url": "https://github.com/Cbolla/ecowave-update/raw/main/app-debug.apk",
-  "releaseNotes": "• Versão 1.0.4."
+  "releaseNotes": "• Botão Panic voltou a ser vermelho.\n• Sistema de atualização sincronizado (v1.0.5).\n• Estabilidade geral aprimorada."
 }
