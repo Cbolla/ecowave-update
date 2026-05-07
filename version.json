@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.0.12",
+  "versionCode": 13,
+  "versionName": "1.0.13",
   "url": "https://github.com/Cbolla/ecowave-update/raw/main/app-debug.apk",
   "releaseNotes": "Travamento corrigido e tela congelada"
 }
