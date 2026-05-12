@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "1.0.20",
+  "versionCode": 21,
+  "versionName": "1.0.21",
   "url": "https://github.com/Cbolla/ecowave-update/raw/main/app-debug.apk",
-  "releaseNotes": "responsividade"
+  "releaseNotes": "bugs visuais corrigido"
 }
