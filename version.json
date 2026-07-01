@@ -1,6 +1,6 @@
 {
-  "versionCode": 36,
-  "versionName": "1.0.36",
+  "versionCode": 37,
+  "versionName": "1.0.37",
   "url": "https://github.com/Cbolla/ecowave-update/raw/main/app-debug.apk",
-  "releaseNotes": "App mais leve menos travamentos, Eclesiastes 3:1 Tudo tem o seu tempo determinado, e há tempo para todo o propósito debaixo do céu."
+  "releaseNotes": "Rodar em segundo plano botao adicionado"
 }
